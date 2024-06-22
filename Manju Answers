@@ -1,1 +1,45 @@
+1. Git: What is the significance of  git remote add origin <url>?
+b)	Adds a reference to the remote repository on the Git Server
+
+2. Git: Which of the following are Git Servers?
+d)	All of the above
+
+3. Git:  Which of the following commands can be used to create a new branch?
+c)	All of the above
+
+4. Github.com: Which of the following describe GitHub Actions?
+c)	Both a) and b)
+
+5. Which command is used to package a maven based Java application?
+d)	mvn package
+
+6. Ansible: What is the use of Ansible?
+b)	To run automation of IT Infra, Network Automation
+
+7. Ansible: What is inventory file?
+b)	List of Targets and their connection details,
+
+8. Ansible:  Does apt module work with RedHat Linux?
+a)	Yes
+
+9. Ansible: What is notify?
+d)	Runs a handler
+
+10. Ansible: Can I run Ansible tasks on multiple hosts at once?
+b)	Yes
+
+11. Ansible: Do I need to install Ansible on target machines to executes tasks?
+b)	No
+
+12. Jenkins: Are Jenkins, Ansible and GitHub Actions used for same purpose?
+c)	Jenkins and Github Actions for same purpose
+
+13. Jenkins: Can Jenkins be configured with Master and Slave/Agent nodes?
+a)	Yes
+
+14. Jenkins:  Which options can be used for deployments onto Tomcat Server? 
+d)	b) and c)
+
+15. Jenkins: What is the default port that Jenkins run on
+a)	8080
 
