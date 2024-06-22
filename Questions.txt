@@ -1,0 +1,83 @@
+1. Git: What is the significance of  git remote add origin <url>?
+a)	Push automatically to remote repo
+b)	Adds a reference to the remote repository on the Git Server
+c)	Pull from the repo
+
+2. Git: Which of the following are Git Servers?
+a)	GitHub
+b)	BitBucket
+c)	GitLab
+d)	All of the above
+
+3. Git:  Which of the following commands can be used to create a new branch?
+a)	git branch <new-branch>
+b)	git checkout -b <new-branch> <commit-id>
+c)	All of the above
+
+4. Github.com: Which of the following describe GitHub Actions?
+a)	CI/CD pipeline provisioned by GitHub
+b)	Workflows that can run on GitHub Cloud
+c)	Both a) and b)
+d)	None of the above
+
+5. Which command is used to package a maven based Java application?
+a)	maven package
+b)	mvn pack
+c)	mvn ready
+d)	mvn package
+
+6. Ansible: What is the use of Ansible?
+a)	To run Jenkins and Github Actions
+b)	To run automation of IT Infra, Network Automation
+c)	To run cloud instances
+
+7. Ansible: What is inventory file?
+a)	Write all commands what play book to run
+b)	List of Targets and their connection details,
+
+8. Ansible:  Does apt module work with RedHat Linux?
+a)	Yes
+b)	No
+
+
+9. Ansible: What is notify?
+a)	Job to run
+b)	Step to execute
+c)	Copy files
+d)	Runs a handler
+
+10. Ansible: Can I run Ansible tasks on multiple hosts at once?
+a)	Yes
+b)	No
+
+11. Ansible: Do I need to install Ansible on target machines to executes tasks?
+a)	Yes
+b)	No
+
+12. Jenkins: Are Jenkins, Ansible and GitHub Actions used for same purpose?
+a)	Yes
+b)	Jenkins and Ansible for same purpose
+c)	Jenkins and Github Actions for same purpose
+d)	All three are different
+
+13. Jenkins: Can Jenkins be configured with Master and Slave/Agent nodes?
+a)	Yes
+b)	No
+
+14. Jenkins:  Which options can be used for deployments onto Tomcat Server? 
+a)	Deploy to Docker Container Plugin
+b)	Deploy to Container Plugin
+c)	Curl command (if curl is installed)
+d)	b) and c)
+
+15. Jenkins: What is the default port that Jenkins run on
+a)	8080
+b)	8081
+c)	5000
+d)	80
+
+1. Create a simple Maven based Java Application (Use the existing one)
+2. Push it to GitHub. Com repository under your UserID
+3. Create a pipeline job
+4. Creates steps (Build, Run Unit Tests, Package & Deploy to Tomcat Server)
+5. Push your pipeline script along with your source code to GitHub.com as a public repository and share your repository URL
